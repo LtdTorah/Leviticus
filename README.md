@@ -10,3 +10,7 @@ https://app.realms.today/dao/2htWBfptyw3BadsYdqWVbVNGPTGPJhiA5d75eB8TQ75P
 Reddit:
 
 https://www.reddit.com/r/leviticus202301121445/
+
+Solscan:
+
+https://solscan.io/token/6SoTgPcqCcneoC2Zm2FhnMgMfvvYTR28HkKox7uF1DQL
